@@ -1,4 +1,4 @@
-# IPTQ-ViT-Post-Training-Quantization-of-Non-linear-Functions-for-Integer-only-Vision-Transformer
+# IPTQ-ViT: Post-Training Quantization of Non-linear Functions for Integer-only Vision Transformers
 [WACV2026] IPTQ-ViT: Post-Training Quantization of Non-linear Functions for Integer-only Vision Transformer
 
 
